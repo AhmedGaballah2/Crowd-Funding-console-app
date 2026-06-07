@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "first_name": "Ahmed",
+    "last_name": "Gaballah",
+    "email": "agaballah223@gmail.com",
+    "password": "01000363294Ahmed*",
+    "phone": "01000363294"
+  },
+  {
+    "id": 2,
+    "first_name": "Yousef",
+    "last_name": "Eid",
+    "email": "yousefeid@gmail.com",
+    "password": "01069777697Yousef*",
+    "phone": "01069777697"
+  },
+  {
+    "id": 3,
+    "first_name": "Ahmed",
+    "last_name": "Mohamed",
+    "email": "ghobashii77@gmail.com",
+    "password": "01000814130Goba*",
+    "phone": "01000814130"
+  }
+]
